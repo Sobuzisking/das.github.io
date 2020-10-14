@@ -1,3 +1,23 @@
 body{
     font-family:  sans-serif;
 }
+
+.banner-container{
+    background-color: lightseagreen;
+}
+
+.banner-column{
+    background-color: whitesmoke;
+    opacity: 0.5;
+    margin: auto;
+    
+   
+}
+
+.banner-column h1,h3{
+    border: black;
+    text-align: center;
+    font-weight: bolder;
+  
+    
+}
